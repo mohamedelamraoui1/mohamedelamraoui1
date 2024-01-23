@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/m_coding13045" target="blank"><img src="https://img.shields.io/twitter/follow/m_coding13045?logo=twitter&style=for-the-badge" alt="m_coding13045" /></a> </p>
 <p align="center">
-  <img src="github.gif" alt="GitHub Animation">
+  <img   width="350"  src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GIF from Giphy">
 </p>
-
 
 - 🌱 I’m currently studying **computer science at FST Fes, Morocco, with a passion for coding and a keen interest in exploring various domains within the field.**
 
@@ -18,6 +17,7 @@
 - 📫 How to reach me: **Mohamedelamrawi@yahoo.com**
 
 ### Connect with me:
+
 
 
 <p align="left">

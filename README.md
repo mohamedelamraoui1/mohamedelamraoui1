@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Mohamed El Amraoui</h2>
 
 ###
-<h3 align="center">Computer Science Student at FST Fes, Morocco</h3>
+<h3 align="center">Computer Engineering Graduate , Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelamraoui1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelamraoui1" /> </p>
 <p align="left"> <a href="https://twitter.com/m_coding13045" target="blank"><img src="https://img.shields.io/twitter/follow/m_coding13045?logo=twitter&style=for-the-badge" alt="m_coding13045" /></a> </p>
 

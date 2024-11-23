@@ -77,7 +77,7 @@
   
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelamraoui1&langs_count=10&theme=dracula)
+
 
 ###
 
@@ -89,7 +89,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mohamedelamraoui1/mohamedelamraoui1/output/snake.svg" alt="Snake animation" />
-![Snake Animation](https://raw.githubusercontent.com/mohamedelamraoui1/mohamedelamraoui1/output/snake.svg)
+
 
 
 ###

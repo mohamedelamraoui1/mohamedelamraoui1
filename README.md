@@ -9,7 +9,7 @@
   <img   width="350"  src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GIF from Giphy">
 </p>
 
-- 🌱 I’m currently studying **I am a Master's student in Data Science & AI, passionate about AI and data, and also interested in development and learning new things.**
+- 🌱 I’m currently studying ** Master's student in Data Science & AI, passionate about AI and data, and also interested in development and learning new things.**
 
 -💬 Ask me about **web development (HTML, CSS, PHP, JavaScript), programming in C/C++, Java (HCI), AI and machine learning, data analysis and manipulation, MySQL databases, and my proficiency in UML, Linux, computer architecture, and networks. I'm ready to discuss these topics!**
 - 📫 How to reach me: **Mohamedelamrawi@yahoo.com**

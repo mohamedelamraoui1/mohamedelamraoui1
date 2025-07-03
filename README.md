@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Mohamed El Amraoui</h2>
 
 ###
-<h3 align="center">Computer Engineering Graduate , Morocco</h3>
+<h3 align="center">Master's student in Data Science & AI at FST Fes, Morocco. | 🇵🇸 Palestine Will Be Free |</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelamraoui1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelamraoui1" /> </p>
 <p align="left"> <a href="https://twitter.com/m_coding13045" target="blank"><img src="https://img.shields.io/twitter/follow/m_coding13045?logo=twitter&style=for-the-badge" alt="m_coding13045" /></a> </p>
 
@@ -9,7 +9,7 @@
   <img   width="350"  src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GIF from Giphy">
 </p>
 
-- 🌱 I’m currently studying ** Master's student in Data Science & AI, passionate about AI and data, and also interested in development and learning new things.**
+- 🌱 I’m currently studying **Master's student in Data Science & AI, passionate about AI and data, and also interested in development and learning new things.**
 
 -💬 Ask me about **web development (HTML, CSS, PHP, JavaScript), programming in C/C++, Java (HCI), AI and machine learning, data analysis and manipulation, MySQL databases, and my proficiency in UML, Linux, computer architecture, and networks. I'm ready to discuss these topics!**
 - 📫 How to reach me: **Mohamedelamrawi@yahoo.com**

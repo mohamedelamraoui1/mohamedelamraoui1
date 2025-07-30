@@ -4,7 +4,9 @@
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Mohamed El Amraoui</h2>
 
-<h3 align="center">Second-year Master's student in Data Science & AI at FST Fes, Morocco 🇲🇦 | 🇵🇸 Free Palestine 🇵🇸</h3>
+<h3 align="center">Second-year Master's student in Data Science & AI at FST Fes, Morocco <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e6.png" alt="Morocco" width="16" height="16" /><br> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f8.png" alt="Palestine" width="16" height="16" /> Palestine Will Be Free <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f8.png" alt="Palestine" width="16" height="16" /> </h3>
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelamraoui1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelamraoui1" /> </p>
 <p align="left"> <a href="https://whatsapp.com/channel/0029VagGLaH545uvia1F1308" target="blank"><img src="https://img.shields.io/twitter/follow/m_coding13045?logo=twitter&style=for-the-badge" alt="m_coding13045" /></a> </p>
@@ -96,8 +98,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedelamraoui1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mohamedelamraoui1/count.svg" />
-</div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
